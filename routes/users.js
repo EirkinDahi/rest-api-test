@@ -7,6 +7,11 @@ let users = [
         firstname: "Eirkin",
         lastname: "Dahi",
         age: 21
+    },
+    {
+        firstname: "Jackie",
+        lastname: "Tran",
+        age: 22
     }
 ]
 
